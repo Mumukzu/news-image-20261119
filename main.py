@@ -1,7 +1,9 @@
 # main.py — news-image-20261119 entry program.
-# Draws "The World in One Day", a 1024x1024 front page summing up
-# Thursday 19 November 2026 in 36 verified stories (1 hero, 5 leads,
-# 30 briefs), with a world map and a markets panel.
+# make.fun competition "news-image-20261119": sum up 19 November 2026
+# in one image. Pot $250 USDC (1st $50), free entry, deadline 21 Nov
+# 2026 07:00 WIB. Draws "The World in One Day", a 1024x1024 front
+# page with 36 verified stories (1 hero, 5 leads, 30 briefs), a world
+# map and a markets panel.
 # Python 3.13 standard library only, no network, no clock, no random:
 # running it twice writes identical bytes.
 import hashlib
